@@ -1856,6 +1856,10 @@ a
 		white-space: nowrap;
 	}
 
+	.button.topmargin{
+		padding-top: 2;
+	}
+
 		input[type="submit"]:after,
 		input[type="reset"]:after,
 		input[type="button"]:after,
@@ -2685,6 +2689,9 @@ a
 			flex-direction: column;
 			margin-left: 0;
 		}
+			ul.actions.center{
+				justify-content: center;
+			}
 
 			ul.actions.stacked li {
 				padding: 1.3em 0 0 0;
