@@ -399,6 +399,7 @@ a
 		}
 
 		.row > .col-4 {
+			margin-top: 2%;
 			width: 33.3333333333%;
 		}
 
@@ -1924,6 +1925,14 @@ a
 		.button.primary {
 			background-color: #ffffff;
 			color: #312450 !important;
+		}
+
+		.button.primary.buffer{
+			background-color: #ffffff;
+			color: #312450 !important;
+			margin-top: 1%;
+			margin-left: 1%;
+			margin-bottom: 1%;
 		}
 
 			input[type="submit"].primary:after,
