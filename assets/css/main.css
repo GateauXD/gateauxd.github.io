@@ -2096,6 +2096,7 @@ body.is-preload #wrapper {
 .flip-card-back>p{
     font-family: 'Source Sans Pro', sans-serif;
     font-size: 80%;
+    margin-bottom: 0%;
 }
 .flip-card-back>h2{
     font-family: 'Source Sans Pro', sans-serif;
@@ -2105,6 +2106,7 @@ body.is-preload #wrapper {
 .flip-card-back>a{
     font-family: 'Source Sans Pro', sans-serif;
     font-size: 70%;
+    color: darkslategray;
 }
 
 /* Style the front side (fallback if image is missing) */
@@ -2121,4 +2123,10 @@ body.is-preload #wrapper {
     background-color: #ffffff;
     color: white;
     transform: rotateY(180deg);
+}
+
+#particles-js{
+    position: absolute;
+    width: 100%;
+    height: 100%;
 }
