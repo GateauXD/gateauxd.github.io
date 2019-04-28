@@ -2106,7 +2106,7 @@ body.is-preload #wrapper {
 .flip-card-back>a{
     font-family: 'Source Sans Pro', sans-serif;
     font-size: 70%;
-    color: darkslategray;
+    color: #2f4f4f;
 }
 
 /* Style the front side (fallback if image is missing) */
