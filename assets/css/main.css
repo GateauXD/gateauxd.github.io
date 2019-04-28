@@ -110,10 +110,16 @@ section {
 }
 
 a {
+    font-family: 'Source Sans Pro', sans-serif;
     text-decoration: none;
 }
 
+p{
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
 h2 {
+    font-family: 'Source Sans Pro', sans-serif;
     font-size: 10pt;
     color: white;
 }
@@ -2054,11 +2060,10 @@ body.is-preload #wrapper {
     background-color: transparent;
     width: 300px;
     height: 226px;
-    border: 3px solid #000000;
+    /* border: 3px solid #000000; */
     perspective: 1000px;
     /* Remove this if you don't want the 3D effect */
 }
-
 
 /* This container is needed to position the front and back side */
 
@@ -2088,7 +2093,19 @@ body.is-preload #wrapper {
     height: 100%;
     backface-visibility: hidden;
 }
-
+.flip-card-back>p{
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 80%;
+}
+.flip-card-back>h2{
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 120%;
+    margin-bottom: 0%;
+}
+.flip-card-back>a{
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 70%;
+}
 
 /* Style the front side (fallback if image is missing) */
 
@@ -2101,7 +2118,7 @@ body.is-preload #wrapper {
 /* Style the back side */
 
 .flip-card-back {
-    background-color: rgb(185, 180, 180);
+    background-color: #ffffff;
     color: white;
     transform: rotateY(180deg);
 }
