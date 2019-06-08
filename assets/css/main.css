@@ -221,7 +221,7 @@ textarea {
 }
 
 .row>.col-1 {
-    width: 8.3333333333%;
+    width: 100%;
 }
 
 .row>.off-1 {
@@ -245,7 +245,7 @@ textarea {
 }
 
 .row>.col-4 {
-    width: 33.3333333333%;
+    width: auto;
 }
 
 .row>.off-4 {
