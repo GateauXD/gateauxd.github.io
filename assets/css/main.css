@@ -1447,7 +1447,6 @@ header>p {
 .image {
     display: inline-block;
 }
-
 .image img {
     display: block;
     width: 100%;
@@ -1479,7 +1478,12 @@ header>p {
     margin: 0 auto;
     width: auto;
 }
-
+.responsive {
+    width: 100%;
+    max-width: 225px;
+    padding-right: 10px;
+    height: auto;
+}
 
 /* Button */
 
