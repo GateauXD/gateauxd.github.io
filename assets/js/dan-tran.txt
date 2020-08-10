@@ -6,6 +6,4 @@ Currently a Software Engineer Associate @ "<span id="k">Capital One</span>". <!-
 
 <p> Where to find me:  <br> <a target="_blank" href="https://github.com/GateauXD/">Github</a> <br> <a target="_blank" href="https://www.linkedin.com/in/dantrandev/">Linkedin</a>
 
-Feel free to reach out to me @ <!-- longlonglongcomment --><a target="_blank" href="dantrandev@gmail.com">Email</a>.
-
-Website Design From: CodeNerve
+Feel free to reach out to me @ <!-- longlonglongcomment --><a href="dantrandev@gmail.com">Email</a>.
