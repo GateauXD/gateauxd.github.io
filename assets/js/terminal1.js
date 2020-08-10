@@ -96,7 +96,7 @@ var Typer = {
   }
   
   Typer.speed = 3;
-  Typer.file = '../dan-tran.txt';
+  Typer.file = 'dan-tran.txt';
   Typer.init();
   
   var timer = setInterval('t();', 30);
