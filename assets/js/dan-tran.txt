@@ -1,8 +1,8 @@
 <span id="a">dan@tran</span>:<span id="b">~</span><span id="c">$</span> cd About_Me
 <span id="a">dan@tran</span>:<span id="b">~</span><span id="c">$</span> cat <!-- laglaglaglaglaglaglaglaglag -->dan-tran.txt<br/><br/>
-Currently a Senior Associate Software Engineer  @ "<span id="k">Capital One</span>". <!-- sjkfhskjf -->
+Incoming Software Engineer  @ "<span id="k">Microsoft</span>". <!-- sjkfhskjf -->
 
-<p> Previous Employment/Projects:  <br> <br> Computational Research Assistant @ <a target="_blank" href="https://github.com/ViceLab/">ViceLab</a>: <br> <a target="_blank" href="https://github.com/vicelab/slaer">slaer</a> <br> <a target="_blank" href="https://github.com/GateauXD/sierra-pywr/tree/master/examples">sierra-pywr</a> <br> Backend Engineer @ <a target="_blank" href="https://github.com/plebeiathon/MotleyMoves">MotleyMoves</a>
+<p> Previous Employment/Projects: <br> <br> Senior Associate Software Engineer @ <a target="_blank" href="https://www.capitalone.com/">Capital One</a>: <br> Streaming Data Platform <br> Service Virtualization Tool <br> Backend Engineer @ <a target="_blank" href="https://github.com/plebeiathon/MotleyMoves">MotleyMoves</a>
 
 <p> Where to find me:  <br> <a target="_blank" href="https://github.com/GateauXD/">Github</a> <br> <a target="_blank" href="https://www.linkedin.com/in/dantrandev/">Linkedin</a>
 
